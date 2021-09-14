@@ -1,7 +1,6 @@
 'use strict'
 
-const MyMath = require('./MyMath')
-const utils = require('./utils')
+const MyMath = require('./MyMath.js')
 
 /* 
 Require work:
@@ -29,9 +28,3 @@ Resolve - поиск
 */
 
 console.log(MyMath)
-console.log(utils)
-
-//const math = new MyMath()
-
-
-// console.log(MyMath.sum(2,2));
