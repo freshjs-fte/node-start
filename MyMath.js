@@ -1,5 +1,3 @@
-const utils = require('./utils')
-
 class MyMath {
     constructor() {
       // instance

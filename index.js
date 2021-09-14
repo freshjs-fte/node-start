@@ -1,6 +1,7 @@
 'use strict'
 
-const MyMath = require('./MyMath.js')
+const MyMath = require('./MyMath')
+require('./fsinit')
 
 /* 
 Require work:
